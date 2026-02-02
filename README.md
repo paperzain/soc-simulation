@@ -9,11 +9,8 @@ Investigate inbound email alerts, classify them accurately, and apply SOC-style 
 
 ## Tools & Technologies
 
-* SIEM Platform
-* Email Security Logs
-* Firewall / Proxy Logs
-* URL Reputation & Threat Intelligence
-* SOC Alert Dashboard
+* SIEM Platform, Email Security Logs and Firewall / Proxy Logs
+* URL Reputation & Threat Intelligence and SOC Alert Dashboard
 
 ## Scope of Work
 
@@ -21,8 +18,6 @@ Investigate inbound email alerts, classify them accurately, and apply SOC-style 
 * Analyzed email headers, sender domains, URLs, and message content
 * Correlated email alerts with firewall and proxy logs
 * Classified alerts as **True Positive (TP)** or **False Positive (FP)**
-* Documented findings through structured incident reports
-* Applied SOC escalation and remediation logic
 
 ## Alert Investigation Summary
 
@@ -48,11 +43,9 @@ Investigate inbound email alerts, classify them accurately, and apply SOC-style 
 ## Skills Demonstrated
 
 * Phishing detection & analysis
-* Email header and domain inspection
 * SIEM log correlation
 * Firewall & proxy log analysis
 * Alert triage and incident classification
-* SOC-style decision making and documentation
 
 ## Project Status
 
